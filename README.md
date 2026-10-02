@@ -1,14 +1,15 @@
-# Lost Isles — Android external test
+# Lost Isles tester downloads
 
-Official Android test builds from Resonance Space. This repository contains downloadable builds only.
+Installers are now available through the password-protected tester portal:
 
-Download the APK from [Releases](https://github.com/MUSE-CODE-SPACE/lost-isles-downloads/releases).
+**https://www.resonance-space.net/downloads**
 
-## Install
-1. Open the release on an Android phone and download the APK.
-2. Allow installation from your browser when Android asks.
-3. Open the downloaded APK and install Lost Isles.
+Use the password provided with your test invitation. Choose Android APK or iOS TestFlight after signing in.
 
-Requires Android 7.1 or newer and an ARM64 device. This is a test build, not a Google Play production release.
+## 테스터 다운로드
 
-[Game website](https://www.resonance-space.net) · Contact: muse@resonance-space.net
+설치 파일은 [테스터 전용 페이지](https://www.resonance-space.net/downloads?lang=ko)에서 제공됩니다. 안내받은 비밀번호를 입력한 뒤 Android 또는 iOS를 선택하세요.
+
+이전 공개 APK 다운로드 주소는 비활성화했습니다.
+
+Contact: muse@resonance-space.net
